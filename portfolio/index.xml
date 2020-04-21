@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ASHLEY ZHANG</title>
-    <link>https://a98zhang.github.io/</link>
-    <description>Recent content on ASHLEY ZHANG</description>
+    <title>Portfolios on ASHLEY ZHANG</title>
+    <link>https://a98zhang.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on ASHLEY ZHANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 00:07:15 -0400</lastBuildDate>
     
-	<atom:link href="https://a98zhang.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://a98zhang.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ces2020</title>
-      <link>https://a98zhang.github.io/blog/ces2020/</link>
-      <pubDate>Mon, 20 Apr 2020 00:07:06 -0400</pubDate>
-      
-      <guid>https://a98zhang.github.io/blog/ces2020/</guid>
-      <description>Harvard </description>
-    </item>
     
     <item>
       <title>What Is A Group</title>
