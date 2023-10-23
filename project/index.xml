@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on ASHLEY ZHANG</title>
-    <link>https://a98zhang.github.io/portfolio/</link>
+    <link>https://a98zhang.github.io/project/</link>
     <description>Recent content in Portfolios on ASHLEY ZHANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://a98zhang.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://a98zhang.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What Is A Group</title>
-      <link>https://a98zhang.github.io/portfolio/group/</link>
+      <link>https://a98zhang.github.io/project/group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://a98zhang.github.io/portfolio/group/</guid>
+      <guid>https://a98zhang.github.io/project/group/</guid>
       <description>&lt;p&gt;What is a &lt;strong&gt;group&lt;/strong&gt;? How our human beings conceive a &lt;strong&gt;group&lt;/strong&gt;?&lt;/p&gt;
 &lt;p&gt;In this era of drastic changes in societal and political landscapes, we need an answer on these questions, more than ever. &lt;strong&gt;Machine learning&lt;/strong&gt; may offer a new perspecitve on this classic &lt;strong&gt;social psychology&lt;/strong&gt; question.&lt;/p&gt;</description>
     </item>
