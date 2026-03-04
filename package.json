@@ -15,6 +15,7 @@
 		"format": "prettier -w . --cache"
 	},
 	"dependencies": {
+		"@iconify-json/academicons": "^1.2.4",
 		"@astrojs/markdown-remark": "^6.3.10",
 		"@astrojs/mdx": "4.3.13",
 		"@astrojs/rss": "4.0.15",
@@ -59,7 +60,12 @@
 		"typescript": "^5.9.3"
 	},
 	"pnpm": {
-		"onlyBuiltDependencies": ["@biomejs/biome", "@tailwindcss/oxide", "esbuild", "sharp"],
+		"onlyBuiltDependencies": [
+			"@biomejs/biome",
+			"@tailwindcss/oxide",
+			"esbuild",
+			"sharp"
+		],
 		"overrides": {
 			"sharp": "^0.34.5"
 		}
