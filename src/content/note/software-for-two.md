@@ -11,7 +11,7 @@ The final solution is nothing sexy, and in fact, a little too basic. Instead of 
 
 It is at most 50 lines and some bare-bone HTML. But it's magical. So now I don't have to repeat myself 10 times at maximum volume and still confront my grandpa's confused face after that 10 attempts; I don't have to see he starts a new topic because he cannot respond to my response, knowing that how frustrating it must be for him. So I can speak and text at the same time, whichever way that makes it a 2-way conversation, that makes us connect.
 
-Maybe this is one version of the future. That is finally we don't always have to build software in the way that it's solving most people's problems, that it is scalable, and it is elegant. Everyone can build a solution that just needs to satisfy ONE person, just like everyone's own journey system, or morning routines. Or, in my case, a solution for two people: my grandpa and me.
+Maybe this is one version of the future. That is finally we don't always have to build software in the way that it's solving most people's problems, that it is scalable, and it is elegant. Everyone can build a solution that just needs to satisfy ONE person, just like everyone's own journey system, or morning routines. Or, in my case, a solution for two: my grandpa and me.
 
 The font is big; the text is all over my face, and the browser is running local.
 
