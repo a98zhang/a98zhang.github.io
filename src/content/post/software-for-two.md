@@ -1,6 +1,8 @@
 ---
 title: Software for Two
+description: On building a simple tool to connect with my nearly deaf grandpa over video calls.
 publishDate: "2026-03-04T00:00:00Z"
+tags: []
 ---
 
 My new verdict on vibe coding is at least I should be happier with it. And my new weekend attempt, despite very little codes, fulfilled that promise.
